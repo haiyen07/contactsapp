@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\contactsapp\contactsapp\contactsapp\bin\Debug\contactsapp.exe.config
+C:\Users\Administrator\Documents\contactsapp\contactsapp\contactsapp\obj\Debug\contactsapp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\contactsapp\contactsapp\contactsapp\bin\Debug\contactsapp.exe
+C:\Users\Administrator\Documents\contactsapp\contactsapp\contactsapp\bin\Debug\contactsapp.pdb
+C:\Users\Administrator\Documents\contactsapp\contactsapp\contactsapp\obj\Debug\contactsapp.exe
+C:\Users\Administrator\Documents\contactsapp\contactsapp\contactsapp\obj\Debug\contactsapp.pdb
